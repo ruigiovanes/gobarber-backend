@@ -16,6 +16,8 @@
     "@typescript-eslint"
   ],
   "rules": {
+    "no-console": "off",
+    "camelcase": "off",
     "arrow-body-style": 0,
     "class-methods-use-this": "off",
     "arrow-parens": "off",
